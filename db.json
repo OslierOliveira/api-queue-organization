@@ -11,5 +11,27 @@
       "city": "São Carlos-SP",
       "cep": "13563-307"
     }
+    {
+      "id": "2",
+      "birth": "1991-05-10",
+      "name": "Pedro Sousa",
+      "gender": "masculino",
+      "email": "pedros1991@gmail.com",
+      "phone": "+55 (16) 99224-1111",
+      "address": "Rua sss ffff, 600",
+      "city": "São Carlos-SP",
+      "cep": "13560-000"
+    }
+{
+      "id": "3",
+      "birth": "1970-08-19",
+      "name": "Xica Bebel",
+      "gender": "Feminino",
+      "email": "xbevel@gmail.com",
+      "phone": "+55 (19) 99222-0022",
+      "address": "Rua Sem Nome, 22222",
+      "city": "Descalvado-SP",
+      "cep": "13690-000"
+    }
   ]
 }
