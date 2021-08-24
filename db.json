@@ -10,7 +10,7 @@
       "address": "Rua Affonso Botelho de Abreu Sampaio, 638",
       "city": "São Carlos-SP",
       "cep": "13563-307"
-    }
+    },
     {
       "id": "2",
       "birth": "1991-05-10",
@@ -21,8 +21,8 @@
       "address": "Rua sss ffff, 600",
       "city": "São Carlos-SP",
       "cep": "13560-000"
-    }
-{
+    },
+    {
       "id": "3",
       "birth": "1970-08-19",
       "name": "Xica Bebel",
