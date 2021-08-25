@@ -43,6 +43,28 @@
       "address": "Av. Sem Sobrenome, 1155",
       "city": "Descalvado-SP",
       "cep": "13690-000"
+    },
+    {
+      "id": "5",
+      "birth": "2000-06-08",
+      "name": "Maria Louca",
+      "gender": "Feminino",
+      "email": "louca.sp@hotmail.com",
+      "phone": "+55 (11) 99138-4449",
+      "address": "Rua das Azaleias, 55",
+      "city": "São Paulo-SP",
+      "cep": "01153-000"
+    },
+    {
+      "id": "6",
+      "birth": "1994-09-06",
+      "name": "Rafael Rodrigues",
+      "gender": "Masculino",
+      "email": "rafa_saocarlos@hotmail.com",
+      "phone": "+55 (16) 99702-1255",
+      "address": "Rua Dona Alexandrina, 77",
+      "city": "São Carlos-SP",
+      "cep": "13560-290"
     }
   ]
 }
